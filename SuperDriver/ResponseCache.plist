@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>result</key>
+	<string>1</string>
+	<key>data</key>
+	<dict>
+		<key>secondNavigationList</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<string>0</string>
+				<key>id</key>
+				<string>1101</string>
+				<key>icon</key>
+				<string>http://amway-data.oss-cn-hangzhou.aliyuncs.com/boku/icon/system_file/1101.png</string>
+				<key>title</key>
+				<string>纽崔莱</string>
+				<key>valid</key>
+				<string>1</string>
+				<key>create_date</key>
+				<string>2015-12-23 13:01:09.0</string>
+				<key>parent_id</key>
+				<string>1</string>
+				<key>modify_date</key>
+				<string>2016-06-24 14:25:44.0</string>
+				<key>orderId</key>
+				<string>1</string>
+			</dict>
+            <dict>
+                <key>type</key>
+                <string>0</string>
+                <key>id</key>
+                <string>1201</string>
+                <key>icon</key>
+                <string>http://amway-data.oss-cn-hangzhou.aliyuncs.com/boku/icon/system_file/1201.png</string>
+                <key>title</key>
+                <string>雅姿品牌</string>
+                <key>valid</key>
+                <string>1</string>
+                <key>create_date</key>
+                <string>2015-12-23 15:50:29.0</string>
+                <key>parent_id</key>
+                <string>2</string>
+                <key>modify_date</key>
+                <string>2016-06-24 14:26:34.0</string>
+                <key>orderId</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>type</key>
+                <string>0</string>
+                <key>id</key>
+                <string>1306</string>
+                <key>icon</key>
+                <string>http://amway-data.oss-cn-hangzhou.aliyuncs.com/boku/icon/system_file/1306.png</string>
+                <key>title</key>
+                <string>悦享荟</string>
+                <key>valid</key>
+                <string>1</string>
+                <key>create_date</key>
+                <string>2015-12-23 16:14:45.0</string>
+                <key>parent_id</key>
+                <string>3</string>
+                <key>modify_date</key>
+                <string>2016-06-24 14:30:26.0</string>
+                <key>orderId</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>type</key>
+                <string>0</string>
+                <key>id</key>
+                <string>1401</string>
+                <key>icon</key>
+                <string>http://amway-data.oss-cn-hangzhou.aliyuncs.com/boku/icon/system_file/1401.png</string>
+                <key>title</key>
+                <string>事业分享</string>
+                <key>valid</key>
+                <string>1</string>
+                <key>create_date</key>
+                <string>2015-12-23 16:23:10.0</string>
+                <key>parent_id</key>
+                <string>4</string>
+                <key>modify_date</key>
+                <string>2016-06-24 14:30:59.0</string>
+                <key>orderId</key>
+                <string>1</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>
